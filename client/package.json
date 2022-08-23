@@ -1,5 +1,9 @@
 {
   "name": "jate",
+  "engines":{
+    "node": "14.17.0",
+    "npm":"7.16.0"
+  },
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
